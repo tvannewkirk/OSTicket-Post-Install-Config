@@ -57,6 +57,23 @@ Click on the agent panel at the top right. Click on the users tab. Click add use
 <p>
 <img width="588" height="352" alt="Screenshot 2026-01-12 012715" src="https://github.com/user-attachments/assets/d083ff31-34e7-4aa5-81fd-11f67ad7c21c" />
 </p>
+Click on the admin panel at the top right. Click on the manage tab. Click on SLA. Make the name Sev-A. Make the grace period one hour. Make the schedule 24/7. Click add plan.
+</br>
+<p>
+<img width="778" height="481" alt="Screenshot 2026-01-12 013350" src="https://github.com/user-attachments/assets/35ac473d-9782-4301-ae39-650692c14714" />
+</p>
+Click on add new SLA plan. Make the name Sev-B. Make the grace period four hours. Make the schedule 24/7. Click add plan.
+</br>
+<p>
+<img width="738" height="477" alt="Screenshot 2026-01-12 013556" src="https://github.com/user-attachments/assets/79dfd4a5-d8aa-4ec6-b759-6aaa882b514a" />
+</p>
+Click on add new SLA plan. Make the name Sev-C. Make the grace period eight hours. Make the schedule business hours. Click add plan.
+</br>
+<p>
+<img width="783" height="478" alt="Screenshot 2026-01-12 013759" src="https://github.com/user-attachments/assets/26d54e2f-8310-47b3-9ecc-adf7859e0246" />
+</p>
+
+
 
 
 
